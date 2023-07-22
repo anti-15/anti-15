@@ -1,4 +1,4 @@
-### Hi there👋👋👋
+### Hi there👋
 - 📍 Fukuoka
 - 🧑‍🎓 Student (21)
 - ⚡️  I'm currently learning Golang React.
